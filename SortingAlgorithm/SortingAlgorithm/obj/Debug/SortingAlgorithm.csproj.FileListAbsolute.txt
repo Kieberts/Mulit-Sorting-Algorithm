@@ -1,0 +1,10 @@
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe.config
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\bin\Debug\SortingAlgorithm.pdb
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.Form1.resources
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.exe
+C:\Users\Sebastian\source\repos\##Privat\##Projekte\Sorting Algorithm\SortingAlgorithm\SortingAlgorithm\obj\Debug\SortingAlgorithm.pdb
